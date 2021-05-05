@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# GameGrabber [![GameGrabber](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/GameGrabber
+# GameGrabber [![GameGrabber](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/GameGrabber)
 > Webscraping Discord Bot
 
 A Webscraping Discord Bot developed to find cheaper game prices and provide users with links to purchase the games.
