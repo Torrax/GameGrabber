@@ -189,4 +189,4 @@ async def on_message(message):
         print("Sending Link 9")
         await message.channel.send(link[9])
   
-client.run("ODM3MjQ0Njc3MzAwMjg5NTM2.YIpu3g.AhUZQMGfMpWjlotZ_vmjKxAAvxk")
+client.run("TOKEN")
