@@ -1,9 +1,9 @@
 <img src="icon.png" align="right" />
 
-# GameGrabber [![GameGrabber](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/CARVIS)
-> A Multifunction Robot Car Project
+# GameGrabber [![GameGrabber](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/GameGrabber
+> Webscraping Discord Bot
 
-ENTER DESCRIPTION HERE
+A Webscraping Discord Bot developed to find cheaper game prices and provide users with links to purchase the games.
 
 ## Usage
 
@@ -21,11 +21,9 @@ step 2
 
 ## Examples
 
-- [Mode Select](https://github.com/Torrax/GameGrabber/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/GameGrabber/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/GameGrabber/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/GameGrabber/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/GameGrabber/examples/) - Mode Select - 
+- [Adding the Bot](https://github.com/Torrax/GameGrabber/examples/) - 
+- [Game Search](https://github.com/Torrax/GameGrabber/examples/) - 
+- [Game Select](https://github.com/Torrax/GameGrabber/examples/) - 
 
 ## Feedback
 
